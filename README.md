@@ -4,7 +4,7 @@ emacs-alt-icon
 ###Ever feel confused when alt+tabbing between iceweasel and emacs on debian? I sure do!
 <div style="margin-left: 4em">
   <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Iceweasel_icon.svg/96px-Iceweasel_icon.svg.png" width=48 height=48>
-  <img src="http://cvs.savannah.gnu.org/viewvc/*checkout*/emacs/emacs/etc/images/icons/hicolor/48x48/apps/emacs.png"><small><small><sub>sneaky weasel...</sub></small></small></div>
+  <img width=48 height=48 src="https://wiki.installgentoo.com/images/a/a0/Icon_Emacs.png"><small><small><sub>sneaky weasel...</sub></small></small></div>
 
 This repo will replace the default emacs icon with the [levitating, meditating gnu](http://www.gnu.org/graphics/meditate.html). 
 
